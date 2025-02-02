@@ -21,11 +21,11 @@ Your organisation may already have policies in place to ensure wellbeing in one 
 # Guide structure
  The guide is composed of three main elements:
 
-_ Being sustainable
+- Being sustainable
 A high-level overview of what is involved in creating a sustainability strategy and then implementing it.  This will provide a broad-picture of what is involved and some key considerations whilst  steps to getting there.   
-_ Implementation guidance
+- Implementation guidance
 More detailed support on how to approach various aspects of the strategy, such as creating a overarching vision, undertaking stakeholder engagement, or… <MAY END UP A STEP BY STEP GUIDE?>
-_ Policies
+- Policies
 Guidance on creating policies for specific areas such as catering, logistics or construction. 
 
 ---
