@@ -28,8 +28,7 @@ More detailed support on how to approach various aspects of the strategy, such a
 •	Policies
 Guidance on creating policies for specific areas such as catering, logistics or construction. 
 
-
-![image](https://github.com/user-attachments/assets/f2a119a7-3669-4968-9246-dabd2258e92f)
+---
 
 
 ![An image](https://linktoyourimage.com/image.jpg)
